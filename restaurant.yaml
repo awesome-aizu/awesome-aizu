@@ -152,3 +152,37 @@ restaurants:
   is_available_creditcard: false
   url: http://cafe-oneshome.com/
 
+- name: 風街亭
+  time:
+    monday:
+    - open: '10:00'
+      close: '23:00'
+    tuesday:
+    - open: '10:00'
+      close: '23:00'
+    wednesday:
+    - open: '10:00'
+      close: '23:00'
+    thursday:
+    - open: '10:00'
+      close: '23:00'
+    friday:
+    - open: '10:00'
+      close: '23:00'
+    saturday:
+    - open: '10:00'
+      close: '23:00'
+    sunday:
+    - open: '10:00'
+      close: '23:00'
+    national_holiday:
+  tel: 0242-24-9874
+  category: 定食
+  location:
+    address: 会津若松市中央1丁目1-40
+    url: https://goo.gl/maps/2ochwcoBJTR2
+    latitude: 37.4977886
+    longitude: 139.9282096
+  is_available_creditcard: false
+  url: https://kazemachi.jimdo.com/
+
