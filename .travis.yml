@@ -1,0 +1,5 @@
+language: generic
+os: linux
+script:
+  - cd test; ./check_yaml.sh
+
