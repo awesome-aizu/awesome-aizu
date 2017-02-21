@@ -1,0 +1,33 @@
+---
+restaurants:
+- name: あおやま
+  time:
+    monday:
+    - open: '19:00'
+      close: '27:00'
+    tuesday:
+    - open: '19:00'
+      close: '27:00'
+    wednesday:
+    - open: '19:00'
+      close: '27:00'
+    thursday:
+    - open: '19:00'
+      close: '27:00'
+    friday:
+    - open: '19:00'
+      close: '28:00'
+    saturday:
+    - open: '19:00'
+      close: '28:00'
+    sunday:
+    national_holiday:
+  tel: 0242-22-7508
+  category: ラーメン
+  location:
+    address: 福島県会津若松市栄町7-32
+    url: https://goo.gl/maps/nPzrzs1S6jm
+    latitude: 37.4959277
+    longitude: 139.9303928
+  is_available_creditcard: false
+
