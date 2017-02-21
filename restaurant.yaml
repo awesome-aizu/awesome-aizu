@@ -30,6 +30,8 @@ restaurants:
     latitude: 37.4959277
     longitude: 139.9303928
   is_available_creditcard: false
+  url:
+
 - name: 馬力本願
   time:
     monday:
@@ -72,6 +74,8 @@ restaurants:
     latitude: 37.500205
     longitude: 139.9201769
   is_available_creditcard: false
+  url:
+
 - name: 渡
   time:
     monday:
@@ -113,5 +117,38 @@ restaurants:
     url: https://goo.gl/maps/w4MF96J4J4x
     latitude: 37.477712
     longitude: 139.91127
+  is_available_creditcard: false
   url: http://www.aizu-watari.com/
+
+- name: One's home
+  time:
+    monday:
+    tuesday:
+    - open: '11:00'
+      close: '21:00'
+    wednesday:
+    - open: '11:00'
+      close: '21:00'
+    thursday:
+    - open: '11:00'
+      close: '21:00'
+    friday:
+    - open: '11:00'
+      close: '21:00'
+    saturday:
+    - open: '11:00'
+      close: '21:00'
+    sunday:
+    - open: '11:00'
+      close: '17:00'
+    national_holiday:
+  tel: 0242-93-5668
+  category: イタリアン
+  location:
+    address: 会津若松市中町4-11
+    url: https://goo.gl/maps/tPbDyRxtVJK2
+    latitude: 37.497111
+    longitude: 139.927056
+  is_available_creditcard: false
+  url: http://cafe-oneshome.com/
 
