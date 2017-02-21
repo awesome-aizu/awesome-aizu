@@ -30,4 +30,45 @@ restaurants:
     latitude: 37.4959277
     longitude: 139.9303928
   is_available_creditcard: false
-
+- name: 馬力本願
+  time:
+    monday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    tuesday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    wednesday:
+    thursday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    friday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    saturday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    sunday:
+    - open: '11:00'
+      close: '15:00'
+    - open: '17:30'
+      close: '21:00'    
+    national_holiday:
+  tel: 0242-22-0133
+  category: ラーメン
+  location:
+    address: 福島県会津若松市七日町7-3
+    url: https://goo.gl/maps/CWhrUo9HHer
+    latitude: 37.500205
+    longitude: 139.9201769
+  is_available_creditcard: false
