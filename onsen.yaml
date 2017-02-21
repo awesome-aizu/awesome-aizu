@@ -1,0 +1,33 @@
+---
+onsens:
+- name: 富士の湯
+  time:
+    monday:
+    - open: '10:00'
+      close: '24:00'
+    tuesday:
+    - open: '10:00'
+      close: '24:00'
+    wednesday:
+    - open: '10:00'
+      close: '24:00'
+    thursday:
+    - open: '10:00'
+      close: '24:00'
+    friday:
+    - open: '10:00'
+      close: '24:00'
+    saturday:
+    - open: '10:00'
+      close: '24:00'
+    sunday:
+  tel: 0242-32-1126
+  category: スーパー銭湯
+  location:
+    address: 福島県会津若松市駅前町 2−13
+    url: https://goo.gl/maps/SiKGhGfZRVN2
+    latitude: 37.505874
+    longitude: 139.928956
+  is_available_creditcard: false
+
+
