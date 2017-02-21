@@ -72,3 +72,46 @@ restaurants:
     latitude: 37.500205
     longitude: 139.9201769
   is_available_creditcard: false
+- name: 渡
+  time:
+    monday:
+    tuesday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    wednesday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    thursday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    friday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    saturday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    sunday:
+    - open: '11:00'
+      close: '14:00'
+    - open: '17:30'
+      close: '21:30'    
+    national_holiday:
+  tel: 0242-28-3930
+  category: 定食
+  location:
+    address: 福島県会津若松市門田町大字日吉丑渕63-8
+    url: https://goo.gl/maps/w4MF96J4J4x
+    latitude: 37.477712
+    longitude: 139.91127
+  url: http://www.aizu-watari.com/
+
