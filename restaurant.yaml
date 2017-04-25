@@ -227,3 +227,39 @@ restaurants:
     longitude: 139.924938
   is_available_creditcard: false
   url:
+
+- name: 湯あがり茶屋　富士(富士の湯 3F)
+  time:
+    monday:
+    - open: '11:30'
+      close: '21:00'
+    tuesday:
+    - open: '11:30'
+      close: '21:00'
+    wednesday:
+    - open: '11:30'
+      close: '21:00'
+    thursday:
+    - open: '11:30'
+      close: '21:00'
+    friday:
+    - open: '11:30'
+      close: '21:00'
+    saturday:
+    - open: '11:30'
+      close: '21:00'
+    sunday:
+    - open: '11:30'
+      close: '21:00'
+    national_holiday:
+    - open: '11:30'
+      close: '21:00'
+  tel: 0242-37-0557
+  category: 食堂
+  location:
+    address: 福島県会津若松市駅前町２−１３
+    url: https://goo.gl/maps/tL4q3Kc3nRT2
+    latitude: 37.5058782
+    longitude: 139.926762
+  is_available_creditcard: false
+  url: http://fujinoyu.jp/dining/index.html
