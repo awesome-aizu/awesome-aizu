@@ -27,8 +27,8 @@ restaurants:
   location:
     address: 福島県会津若松市栄町7-32
     url: https://goo.gl/maps/nPzrzs1S6jm
-    latitude: 37.4959277
-    longitude: 139.9303928
+    latitude: 37.495978
+    longitude: 139.932604
   is_available_creditcard: false
   url:
 
@@ -70,9 +70,9 @@ restaurants:
   category: ラーメン
   location:
     address: 福島県会津若松市七日町7-3
-    url: https://goo.gl/maps/CWhrUo9HHer
-    latitude: 37.500205
-    longitude: 139.9201769
+    url: https://goo.gl/maps/CWhrUo9HHer 
+    latitude: 37.500200
+    longitude: 139.922354
   is_available_creditcard: false
   url:
 
@@ -114,9 +114,9 @@ restaurants:
   category: 定食
   location:
     address: 福島県会津若松市門田町大字日吉丑渕63-8
-    url: https://goo.gl/maps/w4MF96J4J4x
-    latitude: 37.477712
-    longitude: 139.91127
+    url: https://goo.gl/maps/w4MF96J4J4x 
+    latitude: 37.477686
+    longitude: 139.911313
   is_available_creditcard: false
   url: http://www.aizu-watari.com/
 
@@ -147,8 +147,8 @@ restaurants:
   location:
     address: 会津若松市中町4-11
     url: https://goo.gl/maps/tPbDyRxtVJK2
-    latitude: 37.497111
-    longitude: 139.927056
+    latitude: 37.497124
+    longitude: 139.927005
   is_available_creditcard: false
   url: http://cafe-oneshome.com/
 
@@ -181,8 +181,8 @@ restaurants:
   location:
     address: 会津若松市中央1丁目1-40
     url: https://goo.gl/maps/2ochwcoBJTR2
-    latitude: 37.4977886
-    longitude: 139.9282096
+    latitude: 37.497784
+    longitude: 139.930398
   is_available_creditcard: false
   url: https://kazemachi.jimdo.com/
 
@@ -223,8 +223,8 @@ restaurants:
   location:
     address: 福島県会津若松市山鹿町６−５５
     url: https://goo.gl/maps/tL4q3Kc3nRT2
-    latitude: 37.4916932
-    longitude: 139.924938
+    latitude: 37.491679
+    longitude: 139.927126
   is_available_creditcard: false
   url:
 
@@ -259,7 +259,7 @@ restaurants:
   location:
     address: 福島県会津若松市駅前町２−１３
     url: https://goo.gl/maps/tL4q3Kc3nRT2
-    latitude: 37.5058782
-    longitude: 139.926762
+    latitude: 37.505917
+    longitude: 139.928968
   is_available_creditcard: false
   url: http://fujinoyu.jp/dining/index.html
