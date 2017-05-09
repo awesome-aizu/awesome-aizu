@@ -302,26 +302,26 @@ restaurants:
 - name: まったり
   time:
     monday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     tuesday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     wednesday:
     thursday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     friday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     saturday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     sunday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
     national_holiday:
-    - open: '11:30'
+    - open: '11:00'
       close: '20:00'
   tel: 0242-27-1656
   category: ラーメン
