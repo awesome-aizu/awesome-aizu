@@ -297,3 +297,38 @@ restaurants:
     longitude: 139.935848
   is_available_creditcard: false
   url: http://www.nagurayama.jp/scenery/vol2.html
+
+
+- name: まったり
+  time:
+    monday:
+    - open: '11:30'
+      close: '20:00'
+    tuesday:
+    - open: '11:30'
+      close: '20:00'
+    wednesday:
+    thursday:
+    - open: '11:30'
+      close: '20:00'
+    friday:
+    - open: '11:30'
+      close: '20:00'
+    saturday:
+    - open: '11:30'
+      close: '20:00'
+    sunday:
+    - open: '11:30'
+      close: '20:00'
+    national_holiday:
+    - open: '11:30'
+      close: '20:00'
+  tel: 0242-27-1656
+  category: ラーメン
+  location:
+    address: 福島県会津若松市日新町13−50
+    url: https://goo.gl/maps/L474NqeTsjn
+    latitude: 37.496617
+    longitude: 139.923591
+  is_available_creditcard: false
+  url:
