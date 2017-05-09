@@ -263,3 +263,80 @@ restaurants:
     longitude: 139.928968
   is_available_creditcard: false
   url: http://fujinoyu.jp/dining/index.html
+
+
+- name: ぱんどら
+  time:
+    monday:
+    - open: '11:40'
+      close: '13:30'
+    - open: '17:00'
+      close: '22:00'
+    tuesday:
+    - open: '11:40'
+      close: '13:30'
+    - open: '17:00'
+      close: '22:00'
+    wednesday:
+    - open: '11:40'
+      close: '13:30'
+    - open: '17:00'
+      close: '22:00'
+    thursday:
+    - open: '11:40'
+      close: '13:30'
+    - open: '17:00'
+      close: '22:00'
+    friday:
+    - open: '11:40'
+      close: '13:30'
+    - open: '17:00'
+      close: '22:00'
+    saturday:
+    - open: '17:00'
+      close: '22:00'
+    sunday:
+    national_holiday:
+  tel: 0242-29-3888
+  category: 食堂
+  location:
+    address: 福島県会津若松市山鹿町６−５５
+    url: https://goo.gl/maps/tL4q3Kc3nRT2
+    latitude: 37.491679
+    longitude: 139.927126
+  is_available_creditcard: false
+  url:
+
+- name: 蔵の店
+  time:
+    monday:
+    - open: '17:30'
+      close: '23:00'
+    tuesday:
+    - open: '17:30'
+      close: '23:00'
+    wednesday:
+    thursday:
+    - open: '17:30'
+      close: '23:00'
+    friday:
+    - open: '17:30'
+      close: '23:00'
+    saturday:
+    - open: '17:30'
+      close: '23:00'
+    sunday:
+    - open: '17:30'
+      close: '23:00'
+    national_holiday:
+    - open: '17:30'
+      close: '23:00'
+  tel: 0242-22-8111
+  category: 食堂
+  location:
+    address: 会津若松市行仁町4-1
+    url: https://goo.gl/maps/KcGJbg6aWDT2
+    latitude: 37.498151
+    longitude: 139.935848
+  is_available_creditcard: false
+  url: http://www.nagurayama.jp/scenery/vol2.html
