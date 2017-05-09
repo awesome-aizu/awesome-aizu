@@ -264,49 +264,6 @@ restaurants:
   is_available_creditcard: false
   url: http://fujinoyu.jp/dining/index.html
 
-
-- name: ぱんどら
-  time:
-    monday:
-    - open: '11:40'
-      close: '13:30'
-    - open: '17:00'
-      close: '22:00'
-    tuesday:
-    - open: '11:40'
-      close: '13:30'
-    - open: '17:00'
-      close: '22:00'
-    wednesday:
-    - open: '11:40'
-      close: '13:30'
-    - open: '17:00'
-      close: '22:00'
-    thursday:
-    - open: '11:40'
-      close: '13:30'
-    - open: '17:00'
-      close: '22:00'
-    friday:
-    - open: '11:40'
-      close: '13:30'
-    - open: '17:00'
-      close: '22:00'
-    saturday:
-    - open: '17:00'
-      close: '22:00'
-    sunday:
-    national_holiday:
-  tel: 0242-29-3888
-  category: 食堂
-  location:
-    address: 福島県会津若松市山鹿町６−５５
-    url: https://goo.gl/maps/tL4q3Kc3nRT2
-    latitude: 37.491679
-    longitude: 139.927126
-  is_available_creditcard: false
-  url:
-
 - name: 蔵の店
   time:
     monday:
